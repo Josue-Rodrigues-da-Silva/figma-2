@@ -1,0 +1,90 @@
+body {
+    background-color: rgb(240, 236, 236);
+    
+}
+
+.card-titulo {
+    display: inline-block;
+    color: rgb(177, 174, 174);
+    font-size: 12px;
+    margin-left: 450px;
+    margin-top: 0;
+}
+
+.card-body {
+    width: 360px;
+    height: 280px;
+}
+.card-img {
+    display: block;
+    width: 360px;
+    height: 250px;
+    margin: 0 450px;
+    border-radius: 20px 20px 0 0;
+}
+
+.card-time {
+    position: absolute;
+    border: none;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    font-size: 13px;
+    padding: 3px;
+    margin-left: 470px;
+    margin-top: -20%;
+    width: 55px;
+    height: 16px;
+}
+
+.card-text-body {
+    display: inline-block;
+    width: 330px;
+    height: 150px;
+    padding: 16px;
+    gap: 32px;
+    background-color: rgb(245, 241, 241);
+    margin-left: 450px;
+    margin-top: -30px;
+}
+
+.card-heading {
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 0px;
+}
+
+.card-body1 {
+    margin-top: -15px;
+    line-height: 19.36px;
+    color: rgba(98, 95, 104, 1);
+}
+
+.card-body2 {
+    margin-top: -10px;
+    line-height: 19.36px;
+    color: rgba(168, 166, 172, 1);
+}
+
+.card-icons {
+    display: flex;
+    margin-top: 10px;
+    width: 15px;
+    height: 15px;
+}
+
+.card-icon {
+    width: 10px;
+    height: 10px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.card-band {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    margin-left: 300px;
+    margin-top: -20px;
+}
+
+
